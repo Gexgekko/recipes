@@ -21,13 +21,13 @@
 					<td>{{ recipe.item }}</td>
 					<td>
 						<ul>
-							<li ng-repeat="ingredient in recipe.ingredients" ng-click="search(ingredient.name)">
+							<li ng-repeat="ingredient in recipe.ingredients" ng-click="search(ingredient)">
 								{{ ingredient.name }} x {{ ingredient.amount }}
 							</li>
 						</ul>
 					</td>
-					<td>Not yet</td>
-					<td>Not yet</td>
+					<td>{{ recipe.tool }}</td>
+					<td>{{ recipe.bench }}</td>
 				</tr>
 			</table>
 		</div>
