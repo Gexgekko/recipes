@@ -15,7 +15,7 @@
 					<th>Item</th>
 					<th>Recipe</th>
 				</thead>
-				<tr ng-repeat="recipe in recipeList">
+				<tr ng-repeat="recipe in recipeList |filter:searchItem">
 					<td>{{ recipe.name }}</td>
 					<td>{{ recipe.ingredients }}</td>
 				</tr>
