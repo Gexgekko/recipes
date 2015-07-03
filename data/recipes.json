@@ -1,13 +1,41 @@
 [
   {
     "item": "Mud",
-    "ingredients": "Water + Dirt"
+    "ingredients": [
+      {
+        "name": "Water",
+        "amount": "1"
+      },
+      {
+        "name": "Dirt",
+        "amount": "1"
+      }
+    ]
   },
   {
     "item": "Clay Lump",
-    "ingredients": "Process Mud"
-  },{
-  	"item": "Cosa",
-  	"ingredients": "Nada"
+    "ingredients": [
+      {
+        "name": "Water",
+        "amount": "1"
+      },
+      {
+        "name": "Dirt",
+        "amount": "1"
+      }
+    ]
+  },
+  {
+    "item": "Cosa",
+    "ingredients": [
+      {
+        "name": "Water",
+        "amount": "1"
+      },
+      {
+        "name": "Dirt",
+        "amount": "1"
+      }
+    ]
   }
 ]
