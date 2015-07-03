@@ -1,10 +1,13 @@
 [
   {
-    "name": "Item 1",
-    "ingredients": "Ingredients 1"
+    "item": "Mud",
+    "ingredients": "Water + Dirt"
   },
   {
-    "name": "Item 2",
-    "ingredients": "Ingredients 2"
+    "item": "Clay Lump",
+    "ingredients": "Process Mud"
+  },{
+  	"item": "Cosa",
+  	"ingredients": "Nada"
   }
 ]
