@@ -20,7 +20,7 @@
 				<tr ng-repeat="recipe in recipeList | filter:searchItem:strict">
 					<td>{{ recipe.item }}</td>
 					<td>
-						<ul>
+						<ul style="list-style-type: none; padding:0; margin:0;">
 							<li ng-repeat="ingredient in recipe.ingredients" ng-click="search(ingredient)">
 								{{ ingredient.name }} x {{ ingredient.amount }}
 							</li>
