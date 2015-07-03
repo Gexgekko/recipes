@@ -14,10 +14,20 @@
 				<thead>
 					<th>Item</th>
 					<th>Recipe</th>
+					<th>Tools</th>
+					<th>Bench</th>
 				</thead>
 				<tr ng-repeat="recipe in recipeList | filter:searchItem:strict">
 					<td>{{ recipe.item }}</td>
-					<td>{{ recipe.ingredients }}</td>
+					<td>
+						<ul>
+							<li ng-repeat="ingredient in recipe.ingredients">
+								{{ ingredient.name }} x {{ ingredient.amount }}
+							</li>
+						</ul>
+					</td>
+					<td>Not yet</td>
+					<td>Not yet</td>
 				</tr>
 			</table>
 		</div>
