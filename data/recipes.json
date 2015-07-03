@@ -2,48 +2,162 @@
   {
     "item": "Mud",
     "ingredients": [
-    {
-    	"name": "Water",
-    	"amount": "1",
-    	"recipe": "0"
-    },{
-    	"name": "Clay Lump",
-    	"amount": "1",
-    	"recipe": "1"
-    }
+      {
+        "name": "Water",
+        "amount": "1",
+        "recipe": "0"
+      },
+      {
+        "name": "Dirt",
+        "amount": "1",
+        "recipe": "0"
+      }
     ],
-    "tool":"None",
-    "bench":"Workbench"
+    "tool": "None",
+    "bench": "Workbench"
   },
   {
-    "item": "Clay Lump",
-     "ingredients": [
-    {
-    	"name": "Water",
-    	"amount": "1",
-    	"recipe": "0"
-    },{
-    	"name": "Dirt",
-    	"amount": "1",
-    	"recipe": "0"
-    }
+    "item": "Soil",
+    "ingredients": [
+      {
+        "name": "Dirt",
+        "amount": "2",
+        "recipe": "0"
+      },
+      {
+        "name": "Tree Leaves",
+        "amount": "1",
+        "recipe": "0"
+      },
+      {
+        "name": "Water",
+        "amount": "1",
+        "recipe": "0"
+      }
     ],
-    "tool":"None",
-    "bench":"Workbench"
-  },{
-  	"item": "Cosa",
-  	"ingredients": [
-    {
-    	"name": "Water",
-    	"amount": "1",
-    	"recipe": "0"
-    },{
-    	"name": "Dirt",
-    	"amount": "1",
-    	"recipe": "0"
-    }
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Quicksand",
+    "ingredients": [
+      {
+        "name": "Sand",
+        "amount": "2",
+        "recipe": "0"
+      },
+      {
+        "name": "Mud",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Oil",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Water",
+        "amount": "1",
+        "recipe": "0"
+      }
     ],
-    "tool":"None",
-    "bench":"Workbench"
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "String",
+    "ingredients": [
+      {
+        "name": "Grass or Tropical Grass",
+        "amount": "2",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Rope",
+    "ingredients": [
+      {
+        "name": "String",
+        "amount": "3",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Stone Brick",
+    "ingredients": [
+      {
+        "name": "Stone",
+        "amount": "4",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Stone Block",
+    "ingredients": [
+      {
+        "name": "Stone",
+        "amount": "3",
+        "recipe": "0"
+      },
+      {
+        "name": "Dirt",
+        "amount": "1",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Clay Brick",
+    "ingredients": [
+      {
+        "name": "Clay Lump",
+        "amount": "4",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Clay Block",
+    "ingredients": [
+      {
+        "name": "Clay Lump",
+        "amount": "3",
+        "recipe": "1"
+      },
+      {
+        "name": "Dirt",
+        "amount": "1",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Sandstone",
+    "ingredients": [
+      {
+        "name": "Sand",
+        "amount": "3",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
   }
+  
 ]
