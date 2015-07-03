@@ -2,40 +2,48 @@
   {
     "item": "Mud",
     "ingredients": [
-      {
-        "name": "Water",
-        "amount": "1"
-      },
-      {
-        "name": "Dirt",
-        "amount": "1"
-      }
-    ]
+    {
+    	"name": "Water",
+    	"amount": "1",
+    	"recipe": "0"
+    },{
+    	"name": "Clay Lump",
+    	"amount": "1",
+    	"recipe": "1"
+    }
+    ],
+    "tool":"None",
+    "bench":"Workbench"
   },
   {
     "item": "Clay Lump",
-    "ingredients": [
-      {
-        "name": "Water",
-        "amount": "1"
-      },
-      {
-        "name": "Dirt",
-        "amount": "1"
-      }
-    ]
-  },
-  {
-    "item": "Cosa",
-    "ingredients": [
-      {
-        "name": "Water",
-        "amount": "1"
-      },
-      {
-        "name": "Dirt",
-        "amount": "1"
-      }
-    ]
+     "ingredients": [
+    {
+    	"name": "Water",
+    	"amount": "1",
+    	"recipe": "0"
+    },{
+    	"name": "Dirt",
+    	"amount": "1",
+    	"recipe": "0"
+    }
+    ],
+    "tool":"None",
+    "bench":"Workbench"
+  },{
+  	"item": "Cosa",
+  	"ingredients": [
+    {
+    	"name": "Water",
+    	"amount": "1",
+    	"recipe": "0"
+    },{
+    	"name": "Dirt",
+    	"amount": "1",
+    	"recipe": "0"
+    }
+    ],
+    "tool":"None",
+    "bench":"Workbench"
   }
 ]
