@@ -21,7 +21,7 @@
 					<td>{{ recipe.item }}</td>
 					<td>
 						<ul>
-							<li ng-repeat="ingredient in recipe.ingredients">
+							<li ng-repeat="ingredient in recipe.ingredients" ng-click="search(ingredient.name)">
 								{{ ingredient.name }} x {{ ingredient.amount }}
 							</li>
 						</ul>
