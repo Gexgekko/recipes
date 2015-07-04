@@ -695,5 +695,149 @@
     ],
     "tool": "None",
     "bench": "Workbench"
+  },
+  {
+    "item": "Sewing Kit",
+    "ingredients": [
+      {
+        "name": "Cloth",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Cotton",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Tacks",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "String",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Persian Rug",
+    "ingredients": [
+      {
+        "name": "Cotton",
+        "amount": "3",
+        "recipe": "0"
+      },{
+        "name": "Red Dye",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Blue Dye",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Cloth",
+    "ingredients": [
+      {
+        "name": "Cotton",
+        "amount": "3",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Gizmo",
+    "ingredients": [
+      {
+        "name": "Gold",
+        "amount": "1",
+        "recipe": "0"
+      },{
+        "name": "Glass",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Sand",
+        "amount": "1",
+        "recipe": "0"
+      },{
+        "name": "Glue",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Magnet",
+    "ingredients": [
+      {
+        "name": "Gizmo",
+        "amount": "3",
+        "recipe": "1"
+      },{
+        "name": "Iron",
+        "amount": "1",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Steel Hammer",
+    "ingredients": [
+      {
+        "name": "Glue",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Steel Block Sticks",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Steel Block",
+    "ingredients": [
+      {
+        "name": "Charcoal",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Refined Iron",
+        "amount": "2",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Stainless Steel Block",
+    "ingredients": [
+      {
+        "name": "Silver",
+        "amount": "1",
+        "recipe": "0"
+      },{
+        "name": "Refined Steel",
+        "amount": "2",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
   }
 ]
