@@ -471,5 +471,229 @@
     ],
     "tool": "None",
     "bench": "Workbench"
+  },
+  {
+    "item": "Warning Sign",
+    "ingredients": [
+      {
+        "name": "Any Trunk",
+        "amount": "1",
+        "recipe": "0"
+      },{
+        "name": "Glue",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Charcoal",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Yellow Dye",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Stop Sign",
+    "ingredients": [
+      {
+        "name": "Any Trunk",
+        "amount": "1",
+        "recipe": "0"
+      },{
+        "name": "Glue",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Charcoal",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Red Dye",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Left Sign",
+    "ingredients": [
+      {
+        "name": "Any Trunk",
+        "amount": "1",
+        "recipe": "0"
+      },{
+        "name": "Glue",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Charcoal",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "White Dye",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Right Sign",
+    "ingredients": [
+      {
+        "name": "Any Trunk",
+        "amount": "1",
+        "recipe": "0"
+      },{
+        "name": "Glue",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Charcoal",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "White Dye",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Up Sign",
+    "ingredients": [
+      {
+        "name": "Any Trunk",
+        "amount": "1",
+        "recipe": "0"
+      },{
+        "name": "Glue",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Charcoal",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "White Dye",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Down Sign",
+    "ingredients": [
+      {
+        "name": "Any Trunk",
+        "amount": "1",
+        "recipe": "0"
+      },{
+        "name": "Glue",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Charcoal",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "White Dye",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Varnish",
+    "ingredients": [
+      {
+        "name": "Solvent",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Pine Resin",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Stone Hammer",
+    "ingredients": [
+      {
+        "name": "Stone",
+        "amount": "1",
+        "recipe": "0"
+      },{
+        "name": "Sticks",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "String",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Mortar and Pestle",
+    "ingredients": [
+      {
+        "name": "Stone",
+        "amount": "1",
+        "recipe": "0"
+      },{
+        "name": "Sticks",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Clay Lump",
+        "amount": "2",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Workbench",
+    "ingredients": [
+      {
+        "name": "Iron",
+        "amount": "2",
+        "recipe": "0"
+      },{
+        "name": "Sticks",
+        "amount": "2",
+        "recipe": "1"
+      },{
+        "name": "Any Trunk",
+        "amount": "1",
+        "recipe": "0"
+      },{
+        "name": "Stone Block",
+        "amount": "2",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
   }
 ]
