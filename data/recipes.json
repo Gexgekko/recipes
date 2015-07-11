@@ -839,5 +839,452 @@
     ],
     "tool": "None",
     "bench": "Workbench"
+  },{
+    "item": "Distiller",
+    "ingredients": [
+      {
+        "name": "Steel Cauldron",
+        "amount": "2",
+        "recipe": "1"
+      },
+      {
+        "name": "Rubber Hose",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Pipe",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Red Brick",
+        "amount": "2",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Candle",
+    "ingredients": [
+      {
+        "name": "Beeswax",
+        "amount": "2",
+        "recipe": "0"
+      },
+      {
+        "name": "String",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Torch",
+    "ingredients": [
+      {
+        "name": "Oil",
+        "amount": "1",
+        "recipe": "0"
+      },
+      {
+        "name": "Cloth",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Sticks",
+        "amount": "1",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },{
+    "item": "Purple Paper Lantern",
+    "ingredients": [
+      {
+        "name": "Paper",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Purple Dye",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Glue",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Candle",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Red Paper Lantern",
+    "ingredients": [
+      {
+        "name": "Paper",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Red Dye",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Glue",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Candle",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Blue Paper Lantern",
+    "ingredients": [
+      {
+        "name": "Paper",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Blue Dye",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Glue",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Candle",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Green Lantern",
+    "ingredients": [
+      {
+        "name": "Paper",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Green Dye",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Glue",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Candle",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },{
+    "item": "Cloudy Potion",
+    "ingredients": [
+      {
+        "name": "Sunny Potion",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Spicy Potion",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Fiery Potion",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Magical Potion",
+    "ingredients": [
+      {
+        "name": "Cloudy Potion",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Ghost Gum",
+        "amount": "4",
+        "recipe": "1"
+      },
+      {
+        "name": "Purple Magic Gem",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Solvent",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },{
+    "item": "Golden Wand",
+    "ingredients": [
+      {
+        "name": "Whittled Stick",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Varnish",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Gold",
+        "amount": "1",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Silvery Wand",
+    "ingredients": [
+      {
+        "name": "Whittled Stick",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Varnish",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Silver",
+        "amount": "1",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Harm Wand 1500power",
+    "ingredients": [
+      {
+        "name": "Golden Wand",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Magical Potion",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Bones",
+        "amount": "1",
+        "recipe": "0"
+      },
+      {
+        "name": "Red Magic Gem",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Knock Back Wand 1500power",
+    "ingredients": [
+      {
+        "name": "Silvery Wand",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Magical Potion",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Gold Magic Gem",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Blue Magic Gem",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },{
+    "item": "Red Fadey Foam 5-5",
+    "ingredients": [
+      {
+        "name": "Cloudy Potion",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Ghost Dust",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Red Dye",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Blue Fadey Foam 5-5",
+    "ingredients": [
+      {
+        "name": "Cloudy Potion",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Ghost Dust",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Blue Dye",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Green Fadey Foam 5-5",
+    "ingredients": [
+      {
+        "name": "Cloudy Potion",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Ghost Dust",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Green Dye",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },{
+    "item": "Phantom Foam",
+    "ingredients": [
+      {
+        "name": "Cloudy Potion",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Ghost Dust",
+        "amount": "6",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Green Goop",
+    "ingredients": [
+      {
+        "name": "Bouncy Block",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Solvent",
+        "amount": "2",
+        "recipe": "1"
+      },
+      {
+        "name": "Green Dye",
+        "amount": "3",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Snot",
+    "ingredients": [
+      {
+        "name": "Bouncy Block",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Solvent",
+        "amount": "2",
+        "recipe": "1"
+      },
+      {
+        "name": "Yellow Dye",
+        "amount": "3",
+        "recipe": "1"
+      },
+      {
+        "name": "Green Dye",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
   }
 ]
