@@ -1286,5 +1286,258 @@
     ],
     "tool": "None",
     "bench": "Workbench"
+  },{
+    "item": "Metal Plate",
+    "ingredients": [
+      {
+        "name": "Iron",
+        "amount": "3",
+        "recipe": "0"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Saw",
+    "ingredients": [
+      {
+        "name": "Iron",
+        "amount": "1",
+        "recipe": "0"
+      },
+      {
+        "name": "Palm Trunk",
+        "amount": "1",
+        "recipe": "0"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Tacks 5-10",
+    "ingredients": [
+      {
+        "name": "Iron",
+        "amount": "1",
+        "recipe": "0"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Pipe",
+    "ingredients": [
+      {
+        "name": "Iron",
+        "amount": "2",
+        "recipe": "0"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },{
+    "item": "Chisel",
+    "ingredients": [
+      {
+        "name": "Iron",
+        "amount": "2",
+        "recipe": "0"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Wrench",
+    "ingredients": [
+      {
+        "name": "Iron",
+        "amount": "2",
+        "recipe": "0"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Screwdriver",
+    "ingredients": [
+      {
+        "name": "Iron",
+        "amount": "1",
+        "recipe": "0"
+      },
+      {
+        "name": "Sticks",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },{
+    "item": "Prison Bars",
+    "ingredients": [
+      {
+        "name": "Refined Iron",
+        "amount": "4",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Iron Stairs",
+    "ingredients": [
+      {
+        "name": "Iron Block",
+        "amount": "2",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Gold Stairs",
+    "ingredients": [
+      {
+        "name": "Gold Block",
+        "amount": "2",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Silver Stairs",
+    "ingredients": [
+      {
+        "name": "Silver Block",
+        "amount": "2",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },{
+    "item": "Forge",
+    "ingredients": [
+      {
+        "name": "Metal Plate",
+        "amount": "2",
+        "recipe": "1"
+      },
+      {
+        "name": "Iron",
+        "amount": "1",
+        "recipe": "0"
+      },
+      {
+        "name": "Coal",
+        "amount": "1",
+        "recipe": "0"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Iron Pole",
+    "ingredients": [
+      {
+        "name": "Refined Iron",
+        "amount": "2",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Street Light",
+    "ingredients": [
+      {
+        "name": "Refined Iron",
+        "amount": "2",
+        "recipe": "1"
+      },
+      {
+        "name": "Candle",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Glass",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },{
+    "item": "Metal Plate 2-2",
+    "ingredients": [
+      {
+        "name": "Iron Block",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Gold Plate 2-2",
+    "ingredients": [
+      {
+        "name": "Gold Block",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Silver Plate 2-2",
+    "ingredients": [
+      {
+        "name": "Silver Block",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Steel Plate",
+    "ingredients": [
+      {
+        "name": "Steel Block",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Steel Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Stainless Steel Plate",
+    "ingredients": [
+      {
+        "name": "Stainless Steel Block",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Steel Hammer",
+    "bench": "Workbench"
   }
 ]
