@@ -1539,5 +1539,598 @@
     ],
     "tool": "Steel Hammer",
     "bench": "Workbench"
+  },{
+    "item": "Trash Can",
+    "ingredients": [
+      {
+        "name": "Stainless steel plate",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Steel Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Steel Stairs",
+    "ingredients": [
+      {
+        "name": "Steel Block",
+        "amount": "2",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Steel Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Stainless Steel Stairs",
+    "ingredients": [
+      {
+        "name": "Stainless Steel Block",
+        "amount": "2",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Steel Hammer",
+    "bench": "Workbench"
+  },{
+    "item": "Steel Gear",
+    "ingredients": [
+      {
+        "name": "Steel Block",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Steel Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Steel Rod",
+    "ingredients": [
+      {
+        "name": "Steel Block",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Steel Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Spring",
+    "ingredients": [
+      {
+        "name": "Steel Rod",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Pipe",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Steel Hammer",
+    "bench": "Workbench"
+  },{
+    "item": "Knife",
+    "ingredients": [
+      {
+        "name": "Glue",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Steel Block",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Sticks",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Steel Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Steel Cauldron",
+    "ingredients": [
+      {
+        "name": "Steel Block",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Steel Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Rubber Hose",
+    "ingredients": [
+      {
+        "name": "Vulcanize Rubber",
+        "amount": "2",
+        "recipe": "1"
+      },
+      {
+        "name": "Pipe",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Knife",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Rubber Band",
+    "ingredients": [
+      {
+        "name": "Vulcanized Rubber",
+        "amount": "2",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Knife",
+    "bench": "Workbench"
+  },{
+    "item": "White Pants",
+    "ingredients": [
+      {
+        "name": "Cloth",
+        "amount": "2",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Sewing Kit",
+    "bench": "Workbench"
+  },
+  {
+    "item": "White Shirt",
+    "ingredients": [
+      {
+        "name": "Cloth",
+        "amount": "2",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Sewing Kit",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Rope Ladder",
+    "ingredients": [
+      {
+        "name": "Rope",
+        "amount": "5",
+        "recipe": "1"
+      },
+      {
+        "name": "Glue",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Sewing Kit",
+    "bench": "Workbench"
+  },{
+    "item": "Mattress",
+    "ingredients": [
+      {
+        "name": "Spring",
+        "amount": "2",
+        "recipe": "1"
+      },
+      {
+        "name": "Cloth",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Cotton",
+        "amount": "2",
+        "recipe": "0"
+      },
+      {
+        "name": "New Wood Planks",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Sewing Kit",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Double Mattress",
+    "ingredients": [
+      {
+        "name": "Spring",
+        "amount": "4",
+        "recipe": "1"
+      },
+      {
+        "name": "Cloth",
+        "amount": "2",
+        "recipe": "1"
+      },
+      {
+        "name": "Cotton",
+        "amount": "4",
+        "recipe": "0"
+      },
+      {
+        "name": "New Wood Planks",
+        "amount": "2",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Sewing Kit",
+    "bench": "Workbench"
+  },{
+    "item": "Fancy Table",
+    "ingredients": [
+      {
+        "name": "Varnish",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Glue",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Tacks",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "New Wood Planks",
+        "amount": "2",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Fancy Chair",
+    "ingredients": [
+      {
+        "name": "Varnish",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Glue",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Tacks",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "New Wood Planks",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Fancy Cabinet",
+    "ingredients": [
+      {
+        "name": "Iron",
+        "amount": "1",
+        "recipe": "0"
+      },
+      {
+        "name": "Tacks",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "New Wood Planks",
+        "amount": "2",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Throne",
+    "ingredients": [
+      {
+        "name": "Varnish",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Gold",
+        "amount": "1",
+        "recipe": "0"
+      },
+      {
+        "name": "Cloth",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "New Wood Planks",
+        "amount": "2",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },{
+    "item": "Pulse Bomb 3-5",
+    "ingredients": [
+      {
+        "name": "Porcelain",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Vulcanized Rubber",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Magnet",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Screwdriver",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Mecho Spikes Blue",
+    "ingredients": [
+      {
+        "name": "Stainless Steel Plate",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Spike Floor",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Steel Gear",
+        "amount": "3",
+        "recipe": "1"
+      },
+      {
+        "name": "Rubber Band",
+        "amount": "2",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Screwdriver",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Mecho Spikes Yellow",
+    "ingredients": [
+      {
+        "name": "Stainless Steel Plate",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Spike Floor",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Steel Gear",
+        "amount": "3",
+        "recipe": "1"
+      },
+      {
+        "name": "Rubber Band",
+        "amount": "2",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Screwdriver",
+    "bench": "Workbench"
+  },{
+    "item": "Horizontal Acceloring",
+    "ingredients": [
+      {
+        "name": "Stainless Steel Plate",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Pipe",
+        "amount": "4",
+        "recipe": "1"
+      },
+      {
+        "name": "Magnet",
+        "amount": "4",
+        "recipe": "1"
+      },
+      {
+        "name": "Rubber Hose",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Screwdriver",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Vertical Acceloring",
+    "ingredients": [
+      {
+        "name": "Stainless Steel Plate",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Pipe",
+        "amount": "4",
+        "recipe": "1"
+      },
+      {
+        "name": "Magnet",
+        "amount": "4",
+        "recipe": "1"
+      },
+      {
+        "name": "Rubber Hose",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Screwdriver",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Extractor",
+    "ingredients": [
+      {
+        "name": "Stainless Steel Plate",
+        "amount": "2",
+        "recipe": "1"
+      },
+      {
+        "name": "Pipe",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Steel Gear",
+        "amount": "4",
+        "recipe": "1"
+      },
+      {
+        "name": "Rubber Hose",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Screwdriver",
+    "bench": "Workbench"
+  },{
+    "item": "Black Notes",
+    "ingredients": [
+      {
+        "name": "Spring",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "String",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Sticks",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Coal",
+        "amount": "3",
+        "recipe": "0"
+      }
+    ],
+    "tool": "Screwdriver",
+    "bench": "Workbench"
+  },
+  {
+    "item": "White Notes",
+    "ingredients": [
+      {
+        "name": "Spring",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "String",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Sticks",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Porcelain",
+        "amount": "3",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Screwdriver",
+    "bench": "Workbench"
+  },{
+    "item": "Basic Bumper",
+    "ingredients": [
+      {
+        "name": "Gizmo",
+        "amount": "3",
+        "recipe": "1"
+      },
+      {
+        "name": "Spring",
+        "amount": "6",
+        "recipe": "1"
+      },
+      {
+        "name": "Rubber",
+        "amount": "6",
+        "recipe": "0"
+      },
+      {
+        "name": "Porcelain",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Screwdriver",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Dice",
+    "ingredients": [
+      {
+        "name": "Basic Bumper",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Porcelain",
+        "amount": "3",
+        "recipe": "1"
+      },
+      {
+        "name": "Coal",
+        "amount": "3",
+        "recipe": "0"
+      },
+      {
+        "name": "Glue",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Screwdriver",
+    "bench": "Workbench"
   }
 ]
